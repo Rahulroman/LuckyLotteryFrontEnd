@@ -12,9 +12,3 @@ export interface UserLogin {
 
 }
 
-
-export interface UserLogin1 {
- userName : string;
-    password : string;
-
-}
