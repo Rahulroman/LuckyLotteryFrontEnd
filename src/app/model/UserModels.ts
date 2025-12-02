@@ -11,3 +11,10 @@ export interface UserLogin {
     password : string;
 
 }
+
+
+export interface UserLogin1 {
+ userName : string;
+    password : string;
+
+}
